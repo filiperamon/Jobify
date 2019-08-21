@@ -1,0 +1,29 @@
+{
+  "name": "jobify",
+  "version": "1.0.0",
+  "description": "Jobify is a simple job board for sites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filiperamon/Jobify.git"
+  },
+  "keywords": [
+    "jobify",
+    "job"
+  ],
+  "author": "Filipe Ramon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filiperamon/Jobify/issues"
+  },
+  "homepage": "https://github.com/filiperamon/Jobify#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "sqlite": "^3.0.3"
+  }
+}
